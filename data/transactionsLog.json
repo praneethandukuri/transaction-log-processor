@@ -4,7 +4,7 @@
       "id": "TXN001",
       "account": "ACC001",
       "type": "credit",
-      "amount": 1500.00,
+      "amount": 1500.0,
       "timestamp": "2025-01-01T10:00:00Z",
       "tags": ["salary", "monthly"]
     },
@@ -12,7 +12,7 @@
       "id": "TXN002",
       "account": "ACC001",
       "type": "debit",
-      "amount": 500.00,
+      "amount": 500.0,
       "timestamp": "2025-01-02T12:30:00Z",
       "tags": ["groceries"]
     },
@@ -20,7 +20,7 @@
       "id": "TXN003",
       "account": "ACC002",
       "type": "credit",
-      "amount": 2000.00,
+      "amount": 2000.0,
       "timestamp": "2025-01-02T08:45:00Z",
       "tags": ["bonus"]
     },
@@ -28,7 +28,7 @@
       "id": "TXN004",
       "account": "ACC001",
       "type": "debit",
-      "amount": 300.00,
+      "amount": 300.0,
       "timestamp": "2025-01-03T14:15:00Z",
       "tags": ["utilities", "electricity"]
     },
@@ -36,7 +36,7 @@
       "id": "TXN005",
       "account": "ACC002",
       "type": "debit",
-      "amount": 1200.00,
+      "amount": 1200.0,
       "timestamp": "2025-01-04T16:00:00Z",
       "tags": ["rent"]
     },
@@ -44,7 +44,7 @@
       "id": "TXN006",
       "account": "ACC001",
       "type": "credit",
-      "amount": 800.00,
+      "amount": 800.0,
       "timestamp": "2025-01-05T11:20:00Z",
       "tags": ["refund"]
     },
@@ -52,7 +52,7 @@
       "id": "TXN007",
       "account": "ACC002",
       "type": "debit",
-      "amount": 100.00,
+      "amount": 100.0,
       "timestamp": "2025-01-05T18:00:00Z",
       "tags": ["entertainment", "movies"]
     },
@@ -60,7 +60,7 @@
       "id": "TXN008",
       "account": "ACC001",
       "type": "debit",
-      "amount": 50.00,
+      "amount": 50.0,
       "timestamp": "2025-01-06T09:00:00Z",
       "tags": ["snacks"]
     },
@@ -68,7 +68,7 @@
       "id": "TXN009",
       "account": "ACC002",
       "type": "credit",
-      "amount": 500.00,
+      "amount": 500.0,
       "timestamp": "2025-01-06T15:45:00Z",
       "tags": ["freelance"]
     },
@@ -76,7 +76,7 @@
       "id": "TXN010",
       "account": "ACC001",
       "type": "debit",
-      "amount": 700.00,
+      "amount": 700.0,
       "timestamp": "2025-01-07T10:30:00Z",
       "tags": ["shopping", "clothes"]
     }
