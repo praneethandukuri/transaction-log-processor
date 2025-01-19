@@ -2,7 +2,7 @@
 
 ## Phase 1: File Reading and Parsing
 
-- [✅] **Read the Transaction Log File**
+- [ ✅] **Read the Transaction Log File**
   - Use `Deno.readTextFileSync()` to read the content of `transactions.json`.
   - Check if the file exists (optional, depends on environment).
 - [✅] **Parse the File Content**
